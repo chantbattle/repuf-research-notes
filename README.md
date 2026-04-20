@@ -1,42 +1,24 @@
 # RePUF Research Notes
 
-Publicly shareable research notes, reading lists, and reference materials related to RePUF's long-term R&D themes.
+This repository will host publicly shareable research notes and reference materials related to RePUF's long-term R&D themes.
 
-## Current Focus Areas
+## Scope
 
-### Physical Unclonable Functions (PUF)
-- Classical references: Pappu (2002), Buchanan (2005), Tuyls (2006)
-- Optical PUFs and silver halide systems
-- Authentication protocols and statistical security analysis
-- Modeling attacks and information-theoretic security
+RePUF is developing next-generation physical authentication technology. Our research program intersects imaging chemistry, computational analysis, and cryptographic security.
 
-### Statistical Physics of Silver Halide Emulsions
-- Gurney-Mott latent image theory
-- Push processing and grain clumping
-- Aging and archival stability (ISO 18901/18909)
-
-### Computational Imaging
-- CLAHE and robust feature extraction
-- Entropy evaluation (NIST SP 800-90B)
-- Smartphone-based authentication under varying capture conditions
-
-## Contents
-
-This repository will host:
-- Annotated reading lists
-- Links to openly accessible papers and preprints
-- Methodological notes on reproducibility
-- Glossary of terminology across physics, cryptography, and materials science
-
-## Status
-
-🚧 Seeding phase. Content will grow alongside our research program.
+Specific technical details are currently under patent preparation and will be disclosed progressively as filings complete.
 
 ## Collaborations
 
-We actively seek academic research partners. If you work on PUFs, statistical physics of imaging materials, computational imaging, or cryptographic analysis — and would like to discuss collaboration — please reach out.
+We actively seek academic research partners interested in physical authentication, imaging systems, and cryptographic analysis.
+
+If you would like to discuss a potential collaboration, please reach out.
 
 📧 [toi@repuf.co.jp](mailto:toi@repuf.co.jp)
+
+## Status
+
+🚧 This repository will be populated progressively. Initial documents will be added once corresponding patent filings complete.
 
 ## About RePUF
 
